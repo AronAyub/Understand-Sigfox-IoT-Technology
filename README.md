@@ -27,3 +27,14 @@ The life cycle of a Sigfox message is always the same:
 - It's that simple!
 <img width="949" alt="communication" src="https://user-images.githubusercontent.com/55284959/223074469-ed069526-ee62-4134-95d6-228294f7c7da.png">
 
+### What is a Sigfox "base station"? 
+Base stations are local Sigfox antennas, which receive messages from emitting devices and forward them to the Sigfox Cloud. They are deployed in the field by our local Sigfox Operators. 
+
+#### They are composed of three major elements:
+
+- **An antenna,** to receive messages over the air, usually deployed on high points or towers,
+- **A LNA or LNAC** (low-noise amplifier), to amplify the signal and filter noise,
+- **An access point,** which understands the Sigfox messages and sends them to the Sigfox Cloud.
+Once connected, they become part of our public network. They then start listening for all Sigfox messages sent by devices in the vicinity. 
+![sigfox-iot-1030x687-1030x687](https://user-images.githubusercontent.com/55284959/223075829-20cd2454-e24b-4e80-a745-eae7b5467ae1.jpg)
+
