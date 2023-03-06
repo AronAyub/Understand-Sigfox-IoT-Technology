@@ -25,4 +25,5 @@ The life cycle of a Sigfox message is always the same:
             - Base stations send the message to the Sigfox Cloud,
             - The Sigfox Cloud sends the message to a customer's backend platform.
 - It's that simple!
-<img width="730" alt="communication" src="https://user-images.githubusercontent.com/55284959/223074176-98c02908-6994-4b40-b5a4-0afd92c1d8d3.png">
+<img width="949" alt="communication" src="https://user-images.githubusercontent.com/55284959/223074469-ed069526-ee62-4134-95d6-228294f7c7da.png">
+
