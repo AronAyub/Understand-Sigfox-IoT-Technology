@@ -157,3 +157,26 @@ The last point has important details: to comply with local regulations, the Sigf
 - As you can see, Sigfox has designed its technology and network to meet the requirements of mass IoT applications; long device battery life-cycle, low device cost, low connectivity fee, high network capacity, and long-range.  For more details, use the technical document below.
 
 [Technical documnet](https://drive.google.com/file/d/1AoYo5UpoegGoqQHNrW2SHdsjblqv3fe7/view?usp=share_link)
+
+### What can 12 bytes be used for?
+Sigfox messages are small and optimized for sensors, as they require only a small amount of power. 
+
+The Sigfox payload is limited to 12 bytes (excluding the payload headers). Although this might seem to be a very restricted payload size, there's actually a lot that can be done with 12 bytes.
+
+The example below shows how you could structure 12 bytes to send a set of GPS coordinates along with battery voltage, number of satellites received, acquisition time and speed.
+
+<img width="794" alt="2" src="https://user-images.githubusercontent.com/55284959/223119913-284f24a4-00ac-4fcd-94e4-0aea8d22a889.png">
+
+[see the link on a sample project how it is being used](https://www.instructables.com/Sigfox-GPS-Tracker/#step8)
+#### [To learn more on payload Decoding](https://build.sigfox.com/payload)
+## Compatibility of existing devices
+- To test if the device is sigfox compatible [use this software](https://drive.google.com/file/d/1AoYo5UpoegGoqQHNrW2SHdsjblqv3fe7/view?usp=share_link)
+- The following chipsets are compatible:
+    The compatible chipsets are: 
+
+    - Silicon Labs: EFR, EZR, SI446X
+    - Semtech: SX1272, SX1276
+    - OnSemi: AX8052
+    - STMicro: Spirit 2 SPII
+    - NXP: OL2385
+    - M2COMM: M2C8001
