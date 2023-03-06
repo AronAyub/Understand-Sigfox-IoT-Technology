@@ -39,3 +39,6 @@ Once connected, they become part of our public network. They then start listenin
 ![sigfox-iot-1030x687-1030x687](https://user-images.githubusercontent.com/55284959/223075829-20cd2454-e24b-4e80-a745-eae7b5467ae1.jpg)
 ### Coverage
 - Sigfox is a public network, which means that devices rely on the infrastructure deployed through cities and countries by the local Sigfox Operator to communicate. Our full public coverage map is available here:[Coverage map](https://www.sigfox.com/en/coverage.) 
+## Building your product.
+- We rely on an ecosystem as below:
+![jhbrwoo0-build_ecosystem-cropped](https://user-images.githubusercontent.com/55284959/223080932-57c24485-6d5b-477b-ad94-5e204764dbf5.jpg)
