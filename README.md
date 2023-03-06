@@ -46,7 +46,7 @@ Once connected, they become part of our public network. They then start listenin
 # Qualifications 
 - Sigfox operator in your country would be the most useful to help you acccess your project's potential using Sigfox Technology.
 
-- ***Exploring IoT potential in an organuzation***
+- ***Steps to take when Exploring IoT potential in an organization***
 
 1. IOT PROJECTS CAN DELIVER VALUE IN THREE DIFFERENT WAYS
     - optimizing operations/cost optimization
@@ -115,5 +115,45 @@ You’ll then need to bring step five together with step six, in order to decide
 
 Evaluate the approximations you have in terms of each idea’s complexity and cost against its potential value.  From this, you will be able to create a short list of ideas you want to take forward to the next phase.
 
+## Access your needs
+- For a successful IoT project you need to think about all parametrics involved in **IoT Solution** equation. Think of battery life, hardware price and onboardin process of devices.
 
+### Sigfox effectiveness explained.
 
+1) Small message size: 12 bytes at most
+
+Sigfox messages can carry a payload (your own data) of 12 bytes. That's maximum, but the payload is flexible: you can send any data size between 1 and 12 bytes. You can even send a payload of 0 bytes, in case you just need a *ping message.*
+
+This makes Sigfox perfectly suited for the vast majority of IoT use cases, allowing devices to send relevant data to the Sigfox Cloud.
+
+However, this also means that some projects are not currently meant to use the Sigfox technology, because they require high bandwidth and constant connection to the network. Sigfox technology is optimized for lightweight use cases.
+
+2) Regulated message frequency: 140 messages per day at most
+
+As the current version of Sigfox uses public radio frequencies (aka ISM bands), we comply with the sharing rules ("duty cycle") of the different regions of the world. These regulations exist to keep these bands available for everybody.
+- The ETSI regulation allows devices on these frequencies to send messages for **1% of the time per hour (which means 36 seconds)**. 
+To be compliant with the regulations in place, Sigfox devices can only send a defined number of messages per day. Our commercial contracts are designed to address this.
+
+The number of messages per day allowed on the Sigfox network is a direct application of the European ETSI regulation: 
+
+- There are 3,600 seconds in one hour.
+    - 1% of 3,600 is 36 seconds, so a device can emit for 36 seconds per hour.
+    - A Sigfox message takes 6 seconds to send for RC1 devices.
+Therefore, a device can send a maximum of 6 messages per hour (36/6), which means a total of 144 messages per day (24 * 6). Sigfox keeps 4 messages for protocol use, which therefore allows for 140 messages per day for your device.
+
+NB: This calculation is just an example of what is done in the EMEA region (Europe, the Middle East, and Africa). Depending on your device's location, limitations can be very different.
+
+3) Worldwide network: Check for coverage!
+
+Sigfox's network uses radio waves through a large number of dedicated connected antennas (which we call "base stations"). Some regions have many antennas, others have few, and sometimes there is none (yet).
+
+- Network latency, ranger, and bandwidth are key constraints for any IoT project. This is how Sigfox answers those constraints:
+
+- **Latency:** Data is available as soon as it is received by the Sigfox Cloud, which is generally a few seconds after emission by the issuing object.
+- **Range:** On average, 10 km in an urban setting and 40 km in a rural setting. Coverage can be further expanded using network repeaters or the Micro Base Station, for instance.
+- **Bandwidth:** Each message is 100 Hz wide and transferred at *100 or 600 bits per second in data rate,* depending on the region.
+The last point has important details: to comply with local regulations, the Sigfox network is "regionalized". This means that the network configuration can differ from one country to the other. The Sigfox network is currently split into six geographical zones: RC1 (mostly Europe), RC2 (mostly North America), RC3 (Japan), RC4 (LATAM and APAC), etc. A device on the move can automatically switch from one RC to another when they include the Monarch feature [Mornach feature](https://build.sigfox.com/monarch)
+
+- As you can see, Sigfox has designed its technology and network to meet the requirements of mass IoT applications; long device battery life-cycle, low device cost, low connectivity fee, high network capacity, and long-range.  For more details, use the technical document below.
+
+[Technical documnet](https://drive.google.com/file/d/1AoYo5UpoegGoqQHNrW2SHdsjblqv3fe7/view?usp=share_link)
