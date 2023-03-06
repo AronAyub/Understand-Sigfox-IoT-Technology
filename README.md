@@ -42,3 +42,7 @@ Once connected, they become part of our public network. They then start listenin
 ## Building your product.
 - We rely on an ecosystem as below:
 ![jhbrwoo0-build_ecosystem-cropped](https://user-images.githubusercontent.com/55284959/223080932-57c24485-6d5b-477b-ad94-5e204764dbf5.jpg)
+
+# Qualifications 
+- Sigfox operator in your country would be the most useful to help you acccess your project's potential using Sigfox Technology.
+
