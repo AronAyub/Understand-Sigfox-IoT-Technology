@@ -13,7 +13,7 @@
 
 ## Accessing the Sigfox service
 Getting your device to communicate with Sigfox is very easy: everything you need is included! Our subscription service is based on the number of devices you want to connect to the network.
-- The Sigfox network is global, it is managed by local Sigfox Operators (SO), you need to do a quick prototype, contact your SO, as of 2023, Kenya SO is Liquid 
+- The Sigfox network is global, it is managed by local Sigfox Operators (SO), you need to do a quick prototype, contact your SO, as of 2023, Kenya SO is [Liquid Intelligent Technologies](https://www.liquid.tech/)
 
 ## Network Overview
 - Sigfox's network works with lightweight messages (12 bytes, excluding payload headers).
