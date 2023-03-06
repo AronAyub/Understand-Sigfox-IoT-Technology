@@ -46,3 +46,74 @@ Once connected, they become part of our public network. They then start listenin
 # Qualifications 
 - Sigfox operator in your country would be the most useful to help you acccess your project's potential using Sigfox Technology.
 
+- ***Exploring IoT potential in an organuzation***
+
+1. IOT PROJECTS CAN DELIVER VALUE IN THREE DIFFERENT WAYS
+    - optimizing operations/cost optimization
+    - generate new revenues with new products/services
+    - enhance customer satisfaction by improving existing products or services
+2. THE TECHNOLOGY IS NOT THE STARTING POINT
+The value of the IoT is the data that can be derived from a connected device – and, most importantly, how that data can be used by the organization to drive increased profit through customer needs.
+
+Forget about asking how you get the data.  Today, the technology exists to connect almost anything.  Whether this data comes from a standalone connected sensor or an existing product newly endowed with an embedded IoT sensor is less important – certainly at this stage.
+
+Instead, you should be thinking about ‘what data are we missing from our decision making?’; if there were no limits on what we could know (because there aren’t) what would we like to know about our product and our customer and our market? How much better could your sales people sell if they understood more about how your customers are using your product?  What would you need to know to achieve that? How much better a product could your product developers build if they understood more about product performance post-sale?  What do you need to know to understand that? How much more value could your customers derive from your product if they had access to more information?  What do they need to know to gain that?
+
+- Don’t start with the technology.  Start with what piece of information you (or your customers, or your stakeholders) would get value from if you had it want to know. 
+
+3. INVITE THE RIGHT PEOPLE TO YOUR WORKSHOPS
+Facilitated workshops can be a great way to explore IoT potential.  Workshops with strategic business leaders identify pain points in business – and reveal opportunities for improvement.
+
+But, to be successful, these workshops need to have the right people in the room.
+
+For real innovation, you don’t need a room full of techies.   If your IoT discovery workshop invite-list consists of technology, network and application managers, you need to stop and think again.  These people will be important on your IoT journey, of course – but not at this stage. The driver for any IoT project has to be business need.
+
+These early workshops are not for getting bogged down in technical detail – they are for thinking freely and creatively about how you operate your organization, how you serve your customers, what you offer your customers and the value your customers get from those products and services.
+
+And, for that, you need the business’s perspective. When you are creating your discovery workshop invite list, forget you are initiating a tech project.  Think: business improvement.
+
+4. THINK ABOUT THE CUSTOMER EXPERIENCE
+Organisations are increasingly choosing to compete on the customer experience (CX). To compete on this platform, as you begin to look at opportunities to improve your operations as well as your product and service offering, you will need to incorporate:
+
+    - business process mapping
+    - direct customer feedback
+    - indirect customer feedback
+    - financial services feedback
+Understanding how your customers perceive your brand, operations, products and services will expose the improvement opportunities that matter to them.
+
+Not all business leaders can be Steve Jobs – identifying needs in customers that customers don’t even recognise in themselves.  For those of us who aren’t like Jobs, customer feedback mechanisms are the best ways to identify areas of potential.
+
+Incorporating this information also raises the question of what else you’d like to know about your customers that you can’t currently know – another ripe source of IoT potential.
+
+Connected devices open up possibilities for insights that go way beyond traditional business metrics – offering insights into post-sales product performance and lifecycles that we just couldn’t have otherwise.
+
+If you could gain those insights, how much better could your CX be then?
+
+5. STRESS TEST YOUR IDEAS
+Once you’ve collected a range of ideas from your workshops, the next step is to stress test those ideas: do they really have business value?
+
+Again, this is a workshop where strategic business leaders will be calling the shots – not the technologists. What you want is an assessment where your own business modelling will come into play, so you can identify and evaluate the potential value proposition brought by the IoT solution – and the commercial implications of these new revenue streams.
+
+6. GET EXPERT HELP TO DEFINE ROUGH COSTINGS
+Once you have an idea of the revenue-generating potential of the various ideas your team has identified, you will need to assess this against the cost and complexity of bringing those ideas to life.
+
+Here, you are probably going to need some expert input. The Sigfox IoT agency can talk you through the approximate costs of implementing various ideas. 
+
+You will need to think about:
+
+- The costs of the device, sensor, connectivity and network connectivity
+- Who bears those costs?
+- Can you leverage exisiting technology to get the data you need?
+- How do you need to adapt your product to get the information you need?
+- How complex is that product development process?
+- How complex are the connectivity issues moving forward?
+- What security implications are there? What are the approximate costs for managing those risks?
+- These costings will be very approximate at this stage since you are a long way off scoping out a possible solution, but working with a company that has a great deal of experience in bringing IoT projects to life will give you a rough idea of the cost and complexity involved in realising each idea.
+
+7. DECISION: WHICH IDEAS (IOT SOLUTIONS) TO PURSUE
+You’ll then need to bring step five together with step six, in order to decide which ideas are worth pursuing.
+
+Evaluate the approximations you have in terms of each idea’s complexity and cost against its potential value.  From this, you will be able to create a short list of ideas you want to take forward to the next phase.
+
+
+
