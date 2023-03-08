@@ -180,3 +180,12 @@ The example below shows how you could structure 12 bytes to send a set of GPS co
     - STMicro: Spirit 2 SPII
     - NXP: OL2385
     - M2COMM: M2C8001
+    
+    The communities towards buidling a prototype.
+
+    [Slack](https://sigfoxbuilders.slack.com/signup#/domain-signup)
+    [Hackstar](https://www.hackster.io/sigfox)
+
+#### To build a quick prototype, [use the resources](https://build.sigfox.com/technical-quickstart#development-and-evaluation-kits)
+#### Prototyping[Use the resource](https://build.sigfox.com/start)
+⚡Aron Ayub
